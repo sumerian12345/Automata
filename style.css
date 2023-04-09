@@ -1,0 +1,11 @@
+.content-container {
+    height: 100vh; /* Set container height to fill screen */
+    overflow-y: scroll; /* Enable vertical scrolling */
+  }
+  
+  .content-item {
+    height: 400px; /* Set height of each item */
+    width: 100%; /* Set width to fill container */
+    margin-bottom: 20px; /* Add some space between items */
+  }
+  
